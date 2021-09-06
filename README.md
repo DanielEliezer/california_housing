@@ -15,10 +15,8 @@ This dataset has a lot of information that can help us. The main goal is to buil
 • The location of the house turned out to be the most important kind of feature to the final model.
 
 **- Files in the repository:**
-• housing.csv: A dataset with 20640 rows, and each one of them stores information about a specific block, such as median house price, median income of the familys, size of the house, location, etc.
-
-• CaliforniaHousing.ipynb: The notebook of the project
-
+• housing.csv: A dataset with 20640 rows, and each one of them stores information about a specific block, such as median house price, median income of the familys, size of the house, location, etc. <br/>
+• CaliforniaHousing.ipynb: The notebook of the project <br/>
 • CaliforniaHousing.py. The project as a python file.
 
 **- Libraries used:**
