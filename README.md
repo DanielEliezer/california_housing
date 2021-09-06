@@ -25,6 +25,7 @@ This dataset has a lot of information that can help us. The main goal is to buil
 
 
 **- Files in the repository:**
+
 • housing.csv: A dataset with 20640 rows, and each one of them stores information about a specific block, such as median house price, median income of the familys, size of the house, location, etc. <br/>
 • CaliforniaHousing.ipynb: The notebook of the project <br/>
 • CaliforniaHousing.py. The project as a python file.
