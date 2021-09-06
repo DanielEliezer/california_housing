@@ -17,6 +17,7 @@ This dataset has a lot of information that can help us. The main goal is to buil
 **- Personal Challenges**
 
 • Use the mapbox API to plot a map <br/>
+• Use the datapane API to plot the result in the medium as an interactive map (this step is not in the code) <br/>
 • Compare the result of different kind of models using log and standard scaler <br/>
 • Use the KMeans in the feature engineer process. <br/>
 • Create a custom class to feed it to the Pipeline as a Transformation Step <br/>
@@ -32,4 +33,4 @@ This dataset has a lot of information that can help us. The main goal is to buil
 Pandas, Numpy, Seaborn, Matplotlib, Plotly, Autoviz, Scipy, Sklearn, XGBoost, Skopt
 
 **- External tools:**
-Mapbox Api
+Mapbox Api, Datapane Api
