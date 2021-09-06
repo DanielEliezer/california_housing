@@ -14,6 +14,15 @@ This dataset has a lot of information that can help us. The main goal is to buil
 • The R² of the final model is 0.844. The RMSE is $38059 <br/>
 • The location of the house turned out to be the most important kind of feature to the final model.
 
+**- Personal Challenges**
+
+• Use the mapbox API to plot a map <br/>
+• Compare the result of different kind of models using log and standard scaler <br/>
+• Use the KMeans in the feature engineer process. <br/>
+• Create a custom class to feed it to the Pipeline as a Transformation Step <br/>
+• Use the baesyan optimization to tune the hyperparameters. 
+
+
 **- Files in the repository:**
 • housing.csv: A dataset with 20640 rows, and each one of them stores information about a specific block, such as median house price, median income of the familys, size of the house, location, etc. <br/>
 • CaliforniaHousing.ipynb: The notebook of the project <br/>
