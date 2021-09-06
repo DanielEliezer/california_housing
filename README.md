@@ -35,3 +35,5 @@ Pandas, Numpy, Seaborn, Matplotlib, Plotly, Autoviz, Scipy, Sklearn, XGBoost, Sk
 
 **- External tools:**
 Mapbox Api, Datapane Api
+
+*PS: This project is part of the Udacity Nanodegree Course*
