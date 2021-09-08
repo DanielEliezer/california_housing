@@ -16,6 +16,7 @@ This dataset has a lot of information that can help us. The main goal is to buil
 
 **- Personal Challenges**
 
+• Use autoviz
 • Use the mapbox API to plot a map <br/>
 • Use the datapane API to plot the result in the medium as an interactive map (this step is not in the code) <br/>
 • Compare the result of different kind of models using log and standard scaler <br/>
