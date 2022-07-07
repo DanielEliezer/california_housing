@@ -1,6 +1,6 @@
 # california_housing
 
-Check out the medium post about this project:* https://danieleliezer.medium.com/end-to-end-maching-learning-project-predicting-house-prices-in-california-2e95171d49cc
+Check out the medium post about this project: https://danieleliezer.medium.com/end-to-end-maching-learning-project-predicting-house-prices-in-california-2e95171d49cc
 
 **- Description and Motivation** <br/>
 Welcome to the California Housing Prices Analysis! In this project, we are going to use the 1990 California Census dataset to study and try to understand how the different attributes can make the house prices get higher or lower. How does the location impact? How about the size of the house? The age?
